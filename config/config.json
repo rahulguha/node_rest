@@ -1,0 +1,10 @@
+{
+    "env": "dev",
+    "mongo_address":
+        [
+            {"env":"dev", "ip": "54.209.192.243"},
+            {"env":"prod", "ip" : "54.208.211.161"}
+        ],
+    "db": "annectos_prod",
+    "logging_level" : "INFO"
+}

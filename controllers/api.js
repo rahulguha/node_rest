@@ -11,9 +11,13 @@
  * list - Returns a list of threads
  * show - Displays a thread and its posts
  */
-
+var log4js = require('log4js');
+var util = require('../util/util.js')
 
 var cat = require('../model/category.js');
+
+var logger = log4js.getLogger("api");
+logger.setLevel(util.get_logging_level());
 //var Post = require('../models/post.js');
 
 //exports.post = function(req, res) {
@@ -26,6 +30,7 @@ exports.cat_list = function(req, res) {
         //.populate('id name description')
         .select ('id name description -_id')
         .exec (function(err, cats){
+            logger.info("category list returned");
             res.send(cats);
         });
 };
