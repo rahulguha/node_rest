@@ -7,6 +7,11 @@
  */
 //var cat = require('../schema/category.js');
 var api = require('../controllers/api.js');
+exports.send_email = function(req, res) {
+    console.log("routes.send_email");
+    api.email();
+    res.send("Email Sent");
+};
 exports.findAll = function(req, res) {
     console.log("routes.findAll");
     res.send([{name:'wine1'}, {name:'wine2'}, {name:'wine3'}]);

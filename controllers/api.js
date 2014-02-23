@@ -13,6 +13,8 @@
  */
 var log4js = require('log4js');
 var util = require('../util/util.js')
+var email = require('../email/m.js');
+var mail_payload = require('../model/mail_payload.js');
 
 var cat = require('../model/category.js');
 
@@ -34,7 +36,13 @@ exports.cat_list = function(req, res) {
             res.send(cats);
         });
 };
+exports.email = function() {
+    var msg = new mail_payload();
+    msg.cc=msg.cc.push("rahul.guha@gmail.com");
+    email.send_email(msg);
+    //res.send("email sent");
 
+};
 // first locates a thread by title, then locates the replies by thread ID.
 //exports.cat_by_id = (function(req, res) {
 //    cat.findOne({id: req.params.id}, cats) {

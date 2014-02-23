@@ -16,6 +16,13 @@
         "category": "api"
     },
     {
+        "type": "file",
+        "filename": "./log/email.log",
+        "maxLogSize": 20480,
+        "backups": 3,
+        "category": "email"
+    },
+    {
         "type": "console"
     }
 

@@ -6,5 +6,12 @@
             {"env":"prod", "ip" : "54.208.211.161"}
         ],
     "db": "annectos_prod",
-    "logging_level" : "INFO"
+    "logging_level" : "INFO",
+    "email_info":
+            {
+                "sending_email" : "nodeemailer@gmail.com",
+                "password" : "crimespot123",
+                "sender_name" :"Friends from NodeMailer",
+                "sender_email" : "rahul.guha@gmail.com"
+            }
 }

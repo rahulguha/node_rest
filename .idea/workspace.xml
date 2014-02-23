@@ -26,18 +26,52 @@
       <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="36" selection-start="321" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="765">
+            <state line="27" column="36" selection-start="746" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="api.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.3131579" vertical-offset="241" max-vertical-offset="735">
+              <folding>
+                <element signature="e#803#1045#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail_payload.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/mail_payload.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="4" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="65" selection-start="366" selection-end="366" vertical-scroll-proportion="0.43421054" vertical-offset="0" max-vertical-offset="380">
+            <state line="19" column="22" selection-start="469" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/m.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="39" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1125">
+              <folding>
+                <element signature="e#0#44#0" expanded="false" />
+                <element signature="e#1469#2332#0" expanded="false" />
+                <element signature="e#1509#1696#0" expanded="false" />
+                <element signature="e#2122#2147#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,17 +80,10 @@
       <file leaf-file-name="config.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="18" selection-start="197" selection-end="210" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="api.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="50" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="750">
-              <folding />
+            <state line="8" column="29" selection-start="221" selection-end="221" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+              <folding>
+                <marker date="1393140583000" expanded="true" signature="0:487" placeholder="{&quot;env&quot;: &quot;dev&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,7 +91,7 @@
       <file leaf-file-name="log4js.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/log4js.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.875" vertical-offset="30" max-vertical-offset="420">
+            <state line="14" column="10" selection-start="233" selection-end="233" vertical-scroll-proportion="-4.8333335" vertical-offset="94" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -73,7 +100,7 @@
       <file leaf-file-name="category.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/category.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="23" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+            <state line="17" column="18" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -82,7 +109,7 @@
       <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="585">
+            <state line="12" column="27" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -100,12 +127,18 @@
       <list>
         <option value="$PROJECT_DIR$/api.js" />
         <option value="$PROJECT_DIR$/schema/category.js" />
+        <option value="$PROJECT_DIR$/test/api_test.js" />
+        <option value="$PROJECT_DIR$/log/api.log" />
+        <option value="$PROJECT_DIR$/test/util_test.js" />
         <option value="$PROJECT_DIR$/routes/routes.js" />
-        <option value="$PROJECT_DIR$/config/config.json" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/config/log4js.json" />
-        <option value="$PROJECT_DIR$/controllers/api.js" />
         <option value="$PROJECT_DIR$/util/util.js" />
+        <option value="$PROJECT_DIR$/config/log4js.json" />
+        <option value="$PROJECT_DIR$/config/config.json" />
+        <option value="$PROJECT_DIR$/model/mail.js" />
+        <option value="$PROJECT_DIR$/email/m.js" />
+        <option value="$PROJECT_DIR$/controllers/api.js" />
+        <option value="$PROJECT_DIR$/model/mail_payload.js" />
       </list>
     </option>
   </component>
@@ -156,6 +189,104 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_rest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,10 +429,22 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/email/m.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controllers/api.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="12" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -315,7 +458,9 @@
     <entry file="file://$PROJECT_DIR$/controllers/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="42" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
+          <folding>
+            <element signature="e#803#1045#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -361,53 +506,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/category.js">
+    <entry file="file://$PROJECT_DIR$/log/api.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/log4js.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.875" vertical-offset="30" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="50" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="750">
+        <state line="4" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.16806723" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="321" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="765">
+        <state line="27" column="36" selection-start="746" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/email.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.042016808" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/util_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="269" selection-end="269" vertical-scroll-proportion="0.27631578" vertical-offset="0" max-vertical-offset="380">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="197" selection-end="210" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="8" column="29" selection-start="221" selection-end="221" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+          <folding>
+            <marker date="1393140583000" expanded="true" signature="0:487" placeholder="{&quot;env&quot;: &quot;dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/log4js.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="10" selection-start="233" selection-end="233" vertical-scroll-proportion="-4.8333335" vertical-offset="94" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="18" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/util/util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="65" selection-start="366" selection-end="366" vertical-scroll-proportion="0.43421054" vertical-offset="0" max-vertical-offset="380">
+        <state line="19" column="22" selection-start="469" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <folding>
             <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/m.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="39" selection-start="2427" selection-end="2427" vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1125">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+            <element signature="e#1469#2332#0" expanded="false" />
+            <element signature="e#1509#1696#0" expanded="false" />
+            <element signature="e#2122#2147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mail_payload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="0" selection-start="3323" selection-end="3323" vertical-scroll-proportion="0.33333334" vertical-offset="2206" max-vertical-offset="4905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.3131579" vertical-offset="241" max-vertical-offset="735">
+          <folding>
+            <element signature="e#803#1045#0" expanded="false" />
           </folding>
         </state>
       </provider>

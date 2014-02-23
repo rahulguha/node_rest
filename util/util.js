@@ -6,7 +6,7 @@ var config =require('../config/config.json'),
     ;
 
 
-this.get_connection_string = function(){
+exports.get_connection_string = function(){
     var e = config.env;
     var mongo_address = _.find(config.mongo_address, function(env) {
         return env.env == e;
@@ -14,6 +14,9 @@ this.get_connection_string = function(){
     return  "mongodb://" + mongo_address.ip + "/" + config.db + "?poolSize=4";
 }
 
-this.get_logging_level = function(){
+exports.get_logging_level = function(){
     return config.logging_level;
+}
+exports.get_email_info = function(){
+    return config.email_info;
 }

@@ -31,6 +31,7 @@ logger.info("connected to mongodb");
 app.get('/routes', routes.findAll);
 app.get('/routes/:id', routes.findById);
 app.get('/store/cat', routes.cat);
+app.get('/email', routes.send_email);
 
 logger.info("routes are loaded");
 
