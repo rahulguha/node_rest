@@ -10,8 +10,14 @@
     "email_info":
             {
                 "sending_email" : "nodeemailer@gmail.com",
-                "password" : "crimespot123",
+                "password" : "1crimespot123",
                 "sender_name" :"Friends from NodeMailer",
                 "sender_email" : "rahul.guha@gmail.com"
-            }
+            },
+    "email_templating_engine" : [
+        {"name": "jade", "config": {
+                    "template_path": "./email_template/branding"
+                    }},
+        {"name": "swig", "config": {}}
+        ]
 }

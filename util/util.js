@@ -20,3 +20,9 @@ exports.get_logging_level = function(){
 exports.get_email_info = function(){
     return config.email_info;
 }
+exports.get_email_templating_engine = function(engine){
+    var engine_info = _.find(config.email_templating_engine, function(template_info) {
+        return template_info.name == engine;
+    });
+    return engine_info;
+}

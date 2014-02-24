@@ -4,3 +4,172 @@
 [2014-02-23 14:06:07.862] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
 [2014-02-23 14:10:06.226] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
 [2014-02-23 14:13:18.549] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:09:22.745] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:09:22.745] [INFO] email - '<rahul@annectos.in, rahul.guha@gmail.com>'
+[2014-02-23 21:12:02.067] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:13:45.867] [INFO] email - '<rahul@annectos.in, rahul.guha@gmail.com>'
+[2014-02-23 21:15:57.090] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:15:58.103] [INFO] email - '<rahul@annectos.in, rahul.guha@gmail.com>'
+[2014-02-23 21:18:28.857] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:18:28.857] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:21:45.584] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:21:45.584] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:22:16.126] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:22:16.126] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:25:34.677] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:25:34.677] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:28:36.337] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:28:36.337] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:29:38.185] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:29:38.186] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: 'Message Body' }
+[2014-02-23 21:47:20.514] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 21:47:20.514] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello world</title></head><body><p>Hello Tabbu!</p></body></html>' }
+[2014-02-23 22:15:40.530] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:15:40.530] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><p>Hello Tabbu!</p></body></html>' }
+[2014-02-23 22:18:30.376] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:18:30.376] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><p>Hello Tabbu!</p></body></html>' }
+[2014-02-23 22:21:23.267] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:21:23.267] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><p>Hello Tabbu!</p></body></html>' }
+[2014-02-23 22:28:15.681] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:28:15.681] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="/greetings.css"><body><p>Hello Tabbu!</p></body></html>' }
+[2014-02-23 22:40:49.251] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:41:12.461] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:41:12.462] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><p>Hello Tabbu!</p><div id="content"><div class="block"><input id="bar" class="btn"></div></div></body></html>' }
+[2014-02-23 22:44:27.826] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-23 22:44:27.826] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><!-- link(rel=\'stylesheet\', href=\'greetings.css\')--><style><body></body><font-family><Verdana></Verdana></font-family><font-size><45px><background-color><red></red></background-color><div class="btn"></div><background-color><div id="ffff00"></div></background-color><div class="block"></div><background-color><greenyellow></greenyellow></background-color></45px></font-size></style><body><p>Hello Tabbu!</p><div id="content"><div class="block"><input id="bar" class="btn"></div></div></body></html>' }
+[2014-02-24 05:53:42.284] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 05:53:42.285] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><p>Hello Tabbu!</p><div id="content"><img style="width: 320px;" src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><div class="block"><input id="bar" class="btn"></div></div></body></html>' }
+[2014-02-24 06:01:35.415] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 06:01:35.415] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><head><title>Hello Emailer</title></head><link rel="stylesheet" href="greetings.css"><body><div id="content"><span style="background-color:yellow;">\'Hello #name\'</span><img style="width: 320px;" src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><div class="block"><input id="bar" class="btn"></div></div></body></html>' }
+[2014-02-24 07:03:21.202] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:03:21.203] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="background-color:red;">\'Welcome #name\'</span></div><p>this is content</p><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:05:55.184] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:05:55.184] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center">\'Welcome Tabbu\'</span></div><p>this is content</p><p>img(style="width: 320px;" src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg")</p><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:09:34.580] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:09:34.580] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">\'Welcome Tabbu\'</span></div><p>this is content</p><div>img(style="width: 320px;" src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg")</div><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:13:48.770] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:13:48.770] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">\'Welcome Tabbu\'</span></div><p>this is content</p><div>img(style="width: 320px;" src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg")</div><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:14:53.445] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:14:53.445] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">\'Welcome Tabbu\'</span></div><p>this is content</p><div>img(src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg")</div><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:15:55.941] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:15:55.941] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">\'Welcome Tabbu\'</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 07:17:18.725] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 07:17:18.726] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 08:29:36.468] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 08:29:36.468] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 08:32:38.738] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 08:32:38.738] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 08:33:07.266] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 08:33:07.266] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 08:33:24.149] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 08:33:24.149] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }
+[2014-02-24 08:36:29.727] [INFO] email - 'Friends from NodeMailer<rahul.guha@gmail.com>'
+[2014-02-24 08:36:29.728] [INFO] email - { Mail_payload: [Function],
+  to: 'rahul@annectos.in, rahul.guha@gmail.com',
+  cc: '',
+  subject: 'This is a good subject',
+  msg_body: '<!--Created by rahulguha on 23/02/14.\n--><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.\n--><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.\n--><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.\n--><div id="footer"><p>Copyright (c) rahul</p></div></body></html>' }

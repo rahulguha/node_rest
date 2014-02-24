@@ -1,11 +1,11 @@
 /**
  * Created by rahulguha on 23/02/14.
  */
-var mail_payload = function()
+exports.Mail_payload = function (to, cc, subject, msg_body)
         {
-            this.to = ["rahul@annectos.in", "rahul.guha@gmail.com"];
-            this.cc = [];
-            this.subject = "Default Subject";
-            this.msg_body = "Default Body";
-            this.attachments = []
+            this.to = to;
+            this.cc = cc;
+            this.subject = subject;
+            this.msg_body = msg_body;
+
         }

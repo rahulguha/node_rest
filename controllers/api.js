@@ -12,10 +12,12 @@
  * show - Displays a thread and its posts
  */
 var log4js = require('log4js');
-var util = require('../util/util.js')
-var email = require('../email/m.js');
-var mail_payload = require('../model/mail_payload.js');
+var jade = require('jade'),
+    fs = require('fs');
 
+var util = require('../util/util.js');
+var email = require('../email/m.js');
+var payload = require('../model/mail_payload.js');
 var cat = require('../model/category.js');
 
 var logger = log4js.getLogger("api");
@@ -37,9 +39,24 @@ exports.cat_list = function(req, res) {
         });
 };
 exports.email = function() {
-    var msg = new mail_payload();
-    msg.cc=msg.cc.push("rahul.guha@gmail.com");
-    email.send_email(msg);
+    fs.readFile('./email_template/greetings.jade', 'utf8', function (err, data) {
+        if (err) {
+                logger.info(err)
+                throw err;
+            };
+
+        var options ={};
+        options.filename =  util.get_email_templating_engine("jade").config.template_path ;
+        var fn = jade.compile(data, options);
+        var html = fn({name:'Tabbu'});
+        payload.Mail_payload("rahul@annectos.in, rahul.guha@gmail.com", "", "This is a good subject", html);
+        var msg = email.set_message(payload);
+
+        email.send_email(msg);
+        logger.info("email sent successfully. ")
+        logger.info(html)
+    });
+
     //res.send("email sent");
 
 };
