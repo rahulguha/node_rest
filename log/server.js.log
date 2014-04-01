@@ -1,9 +1,0 @@
-[2014-02-22 22:09:24.916] [INFO] server - express loaded
-[2014-02-22 22:09:24.928] [INFO] server - connected to mongodb
-[2014-02-22 22:09:24.929] [INFO] server - routes are loaded
-[2014-02-22 22:09:24.935] [INFO] server - http server started
-[2014-02-22 22:15:04.549] [INFO] server - express loaded
-[2014-02-22 22:15:04.559] [INFO] server - connected to mongodb
-[2014-02-22 22:15:04.560] [INFO] server - routes are loaded
-[2014-02-22 22:15:04.564] [INFO] server - http server started
-[2014-02-22 22:15:53.005] [INFO] server - category list returned
