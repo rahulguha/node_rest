@@ -1,12 +1,42 @@
-[2014-02-22 22:17:06.534] [INFO] api - category list returned
-[2014-02-22 22:33:32.208] [INFO] api - category list returned
-[2014-02-23 07:32:31.654] [INFO] api - category list returned
-[2014-02-23 09:12:29.444] [INFO] api - category list returned
-[2014-02-23 09:18:20.856] [INFO] api - category list returned
-[2014-02-23 21:01:45.243] [INFO] api - category list returned
-[2014-02-24 08:36:29.733] [INFO] api - email sent successfully. 
-[2014-02-24 08:36:29.733] [INFO] api - <!--Created by rahulguha on 23/02/14.
---><!DOCTYPE html><html><!--Created by rahulguha on 24/02/14.
---><head><title>My Brand</title></head><link rel="stylesheet" href="greetings.css"><body><!--Created by rahulguha on 24/02/14.
---><div style="background-color:yellow; width:100%; height:50px;"><span style="font-size:24px; text-align:center;">Welcome Tabbu</span></div><p>this is content</p><img src="http://cdn-new-annectos.s3.amazonaws.com/images/liberty/n/7123-120black.jpg"><!--Created by rahulguha on 24/02/14.
---><div id="footer"><p>Copyright (c) rahul</p></div></body></html>
+[2014-03-10 11:47:31.788] [INFO] api - category list returned
+[2014-03-10 11:50:47.993] [INFO] api - category list returned
+[2014-03-10 15:43:36.055] [INFO] api - category list returned
+[2014-03-10 15:50:46.212] [INFO] api - category list returned
+[2014-03-10 16:04:00.722] [INFO] api - category list returned
+[2014-03-10 16:23:47.429] [INFO] api - category list returned
+[2014-03-10 16:26:44.060] [INFO] api - category list returned
+[2014-03-10 16:26:47.434] [INFO] api - category list returned
+[2014-03-10 16:39:46.884] [INFO] api - claim list returned
+[2014-03-10 16:41:14.201] [INFO] api - claim list returned
+[2014-03-10 16:41:19.756] [INFO] api - category list returned
+[2014-03-10 16:45:30.984] [INFO] api - claim list returned
+[2014-03-10 20:42:46.008] [INFO] api - category list returned
+[2014-03-10 20:42:50.494] [INFO] api - category list returned
+[2014-03-10 20:43:24.594] [INFO] api - category list returned
+[2014-03-10 20:45:49.695] [INFO] api - category list returned
+[2014-03-10 20:46:08.331] [INFO] api - category list returned
+[2014-03-10 20:47:57.490] [INFO] api - category list returned
+[2014-03-10 20:50:17.983] [INFO] api - category list returned
+[2014-03-10 20:52:34.717] [INFO] api - category list returned
+[2014-03-10 21:14:11.931] [INFO] api - category list returned
+[2014-03-10 21:15:29.922] [INFO] api - claim list returned
+[2014-03-10 21:18:01.576] [INFO] api - claim list returned
+[2014-03-10 21:18:30.481] [INFO] api - claim list returned
+[2014-03-10 21:28:39.839] [INFO] api - claim list returned
+[2014-03-10 21:29:16.497] [INFO] api - claim list returned
+[2014-03-10 21:30:59.793] [INFO] api - claim list returned
+[2014-03-10 21:32:25.289] [INFO] api - claim list returned
+[2014-03-10 21:33:34.124] [INFO] api - claim list returned
+[2014-03-10 21:48:56.248] [INFO] api - claim list returned
+[2014-03-10 22:00:10.656] [INFO] api - claim list returned
+[2014-03-10 22:01:58.584] [INFO] api - claim list returned
+[2014-03-10 22:32:31.662] [INFO] api - claim list returned
+[2014-03-18 06:46:39.593] [INFO] api - category list returned
+[2014-03-18 06:48:20.650] [INFO] api - claim list returned
+[2014-03-18 06:48:41.742] [INFO] api - claim list returned
+[2014-03-18 06:52:10.462] [INFO] api - claim list returned
+[2014-03-18 06:52:24.490] [INFO] api - claim list returned
+[2014-03-18 06:55:44.068] [INFO] api - claim list returned
+[2014-03-18 06:56:40.329] [INFO] api - claim list returned
+[2014-03-18 07:29:26.524] [INFO] api - claim list returned
+[2014-03-18 08:36:01.308] [INFO] api - claim list returned

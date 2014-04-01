@@ -8,6 +8,8 @@
 var mongoose = require('mongoose')
     , Schema = mongoose.Schema;
 
+var mongo = require('../db_connect/mongoose.js');
+
 var catSchema = new Schema({
     id:  String,
     name:  String,
@@ -15,4 +17,5 @@ var catSchema = new Schema({
     description: String
 });
 catSchema.set('collection', 'category')
-module.exports = mongoose.model('category', catSchema);
+//module.exports = mongoose.model('category', catSchema);
+module.exports =  mongo.get_mongoose_connection().model('category', catSchema);

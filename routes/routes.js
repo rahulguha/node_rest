@@ -7,11 +7,9 @@
  */
 //var cat = require('../schema/category.js');
 var api = require('../controllers/api.js');
-exports.send_email = function(req, res) {
-    console.log("routes.send_email");
-    api.email();
-    res.send("Email Sent");
-};
+
+
+
 exports.findAll = function(req, res) {
     console.log("routes.findAll");
     res.send([{name:'wine1'}, {name:'wine2'}, {name:'wine3'}]);
@@ -24,16 +22,32 @@ exports.findById = function(req, res) {
 
 exports.cat = function(req, res) {
     api.cat_list(req,res);
-//    var q = cat.find();
-//    q.select('id Name description');
-//    q.exec(function (err, cats) {
-//        if (err) return handleError(err);
-//        res.send(cats);
-//    })
-
-//    cat.find(function(err, cats) {
-//        console.log("cat");
-//        res.send(cats);
-//    });
-    //res.send({id:req.params.id, name: "The Name", description: "description"});
 };
+
+exports.claim = function (req, res) {
+    api.claim_list(req, res);
+};
+exports.claim_by_company = function (req, res) {
+    api.claims_by_company(req, res);
+};
+
+exports.get_prod_by_cat_id = function (req, res) {
+    api.get_prod_by_cat_id(req, res);
+};
+
+// Add new methods for exporting apis *************************************************************************
+exports.login = function(req, res) {
+   // api.cat_list(req,res);
+//    console.log (req.body);
+    api.user_login(req,res);
+};
+
+
+exports.addclaim = function (req, res) {
+    // api.cat_list(req,res);
+    //    console.log (req.body);
+    api.add_claim(req, res);
+};
+
+// ******************************************************************************************
+
