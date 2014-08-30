@@ -2,8 +2,8 @@
     "env": "dev",
     "mongo_address":
         [
-            {"env":"dev", "ip": "54.209.85.21"},
-            {"env":"prod", "ip" : "54.208.211.161"}
+            {"env":"dev", "ip": },
+            {"env":"prod", "ip" : }
         ],
     "db": "annectos_prod",
     "fetch_limit" :5,
@@ -11,12 +11,12 @@
     "mysql":
     {
         "address" : [
-            {"env":"dev", "ip": "54.209.85.21"},
-            {"env":"prod", "ip" : "54.208.211.161"}
+            {"env":"dev", "ip": },
+            {"env":"prod", "ip" : }
         ],
         "db": "ecomm",
-        "user_id" : "annectos",
-        "password" : "annectos123"
+        "user_id" : ,
+        "password" : 
     },
 
     "logging_level" : "INFO"
